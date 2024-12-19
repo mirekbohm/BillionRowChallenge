@@ -1,5 +1,6 @@
 #include <iostream>
 #include <fstream>
+#include <ostream>
 #include <unordered_map>
 #include <vector>
 #include <string>
@@ -51,6 +52,8 @@ int main() {
                   << " Mean: " << meanTemp
                   << " Max: " << maxTemp << std::endl;
     }
-    
+
+    std::cout<< "Hello there, nice to meet you!" << std::endl;
+
     return 0;
 }
