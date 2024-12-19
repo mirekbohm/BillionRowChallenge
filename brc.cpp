@@ -52,5 +52,7 @@ int main() {
                   << " Max: " << maxTemp << std::endl;
     }
 
+    std::cout << "Done!" << std::endl;
+
     return 0;
 }
