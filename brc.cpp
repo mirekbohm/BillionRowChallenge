@@ -51,8 +51,6 @@ int main() {
                   << " Mean: " << meanTemp
                   << " Max: " << maxTemp << std::endl;
     }
-
-    std::cout << "Done!" << std::endl;
-
+    
     return 0;
 }
